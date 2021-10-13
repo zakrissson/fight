@@ -1,0 +1,16 @@
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\bin\Debug\net5.0\fight.exe
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\bin\Debug\net5.0\fight.deps.json
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\bin\Debug\net5.0\fight.runtimeconfig.json
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\bin\Debug\net5.0\fight.runtimeconfig.dev.json
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\bin\Debug\net5.0\fight.dll
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\bin\Debug\net5.0\ref\fight.dll
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\bin\Debug\net5.0\fight.pdb
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.csproj.AssemblyReference.cache
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.AssemblyInfoInputs.cache
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.AssemblyInfo.cs
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.csproj.CoreCompileInputs.cache
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.dll
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\ref\fight.dll
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.pdb
+C:\Users\zakrisson.ronja\Desktop\prr\fight\fight\obj\Debug\net5.0\fight.genruntimeconfig.cache
